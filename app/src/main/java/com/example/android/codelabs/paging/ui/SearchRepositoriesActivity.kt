@@ -143,6 +143,6 @@ class SearchRepositoriesActivity : AppCompatActivity() {
 
   companion object {
     private const val LAST_SEARCH_QUERY: String = "last_search_query"
-    private const val DEFAULT_QUERY = "Android"
+    private const val DEFAULT_QUERY = "raywenderlich"
   }
 }
